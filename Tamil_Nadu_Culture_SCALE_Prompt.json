@@ -1,0 +1,49 @@
+{
+  "title": "Tamil Nadu Cultural Heritage",
+  "framework": "SCALE",
+  "S": {
+    "subject": "A vibrant celebration of Tamil Nadu culture featuring Jallikattu (traditional bull-taming sport), Bharatanatyam dancer, authentic Tamil vegetarian food, a majestic South Indian temple, and people wearing traditional Tamil attire such as veshti, saree and pavadai.",
+    "cultural_elements": [
+      "Jallikattu bull",
+      "Bharatanatyam dancer",
+      "traditional Tamil Nadu food",
+      "Dravidian temple architecture",
+      "veshti and shirt",
+      "Kanchipuram-style saree",
+      "traditional jewellery",
+      "kolam"
+    ]
+  },
+  "C": {
+    "composition": "Wide cinematic documentary composition with multiple cultural elements naturally connected in one scene. Place the Bharatanatyam dancer as a strong foreground subject, the Jallikattu scene in the middle distance, the temple rising majestically in the background, and a traditional food spread and kolam details framing the lower foreground.",
+    "camera_view": "Professional photographer viewpoint, eye-level perspective with a slightly wide-angle lens.",
+    "framing": "Balanced SCALE-style frame with strong foreground, middle-ground and background depth; visually rich but not overcrowded.",
+    "depth": "Natural depth of field with the main cultural subjects sharply detailed and the background softly separated."
+  },
+  "A": {
+    "action": "The Bharatanatyam dancer performs a graceful pose while Jallikattu participants and a decorated bull create energy in the background. Families in traditional clothing enjoy authentic Tamil food near the temple during a colorful cultural celebration.",
+    "motion": "Dynamic yet realistic documentary movement, capturing flowing sarees, expressive Bharatanatyam gestures and the energetic atmosphere of Jallikattu."
+  },
+  "L": {
+    "location": "Traditional Tamil Nadu village festival setting with a magnificent Dravidian-style temple, temple gopuram, decorated streets, kolam patterns and festive surroundings.",
+    "environment": "Authentic rural Tamil Nadu atmosphere during a cultural festival, warm sunlight, traditional architecture and natural village details."
+  },
+  "E": {
+    "style": "Ultra-realistic professional cultural documentary photography",
+    "lighting": "Warm golden-hour sunlight with cinematic natural lighting",
+    "color": "Rich, vibrant and authentic Tamil Nadu festival colors",
+    "details": "Highly detailed faces, fabrics, jewellery, food textures, temple carvings and bull decorations",
+    "mood": "Proud, joyful, energetic, elegant and deeply rooted in Tamil heritage",
+    "quality": "Photorealistic, cinematic, high dynamic range, realistic skin tones, natural textures, premium editorial photography",
+    "avoid": [
+      "cartoon style",
+      "artificial-looking faces",
+      "modern clothing dominating the scene",
+      "generic Indian architecture",
+      "excessive visual clutter",
+      "distorted anatomy",
+      "text or watermark"
+    ]
+  },
+  "final_prompt": "Create a breathtaking photorealistic documentary photograph celebrating Tamil Nadu culture: Jallikattu, Bharatanatyam, authentic Tamil food, magnificent Dravidian temple architecture, traditional Tamil clothing, kolam and village festival life. Capture it from the perspective of a professional photographer using a cinematic wide-angle composition, strong foreground-middle-ground-background depth, warm golden-hour light, vibrant but authentic colors, natural human expressions, rich cultural details and premium editorial photography quality."
+}
